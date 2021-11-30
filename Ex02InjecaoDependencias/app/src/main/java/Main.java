@@ -1,3 +1,6 @@
+import modelo.Cliente;
+import servico.AtivacaoClienteServico;
+
 public class Main {
   
   public static void main(String[] args) {
